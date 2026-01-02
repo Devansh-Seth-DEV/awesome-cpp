@@ -128,6 +128,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [rpp](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement. [MIT]
 * [SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. [MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 * [Seastar](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. [Apache-2.0 License] [seastar.io](http://seastar.io/)
+* [sfl library](https://github.com/slavenf/sfl-library) - a header-only C++11 library that provides several new or lesser-known containers, some of which can be used in C++20 constant expressions. [zlib]
 * [Siv3D](https://github.com/Siv3D/OpenSiv3D) - Siv3D (OpenSiv3D) is a C++20 framework for creative coding (2D/3D games, media art, visualizers, and simulators). [MIT] [website](https://siv3d.github.io/)
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
@@ -912,6 +913,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost.Beast](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. [Boost] [website](https://www.boost.org/libs/beast)
 * [Breep](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. [EUPL-1.1 (OSI approved)]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) - C++ REST SDK (previously named Casablanca). [Apache2]
+* [CZMQ](https://github.com/zeromq/czmq) - High-level C binding for ØMQ. [MPL2] [website](http://czmq.zeromq.org/)
 * [Restbed](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. [AGPL]
 * [Restinio](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. [BSD]
 * [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests. [MIT]
@@ -967,6 +969,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. [Unlicense]
 * [ZeroMQ](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. [LGPL3/MPL2] [website](http://zeromq.org/)
+* [Zyre](https://github.com/zeromq/zyre) - Local Area Clustering for Peer-to-Peer Applications. [MPL2]
 
 ## Office Open XML
 *Libraries for parsing and manipulating xlsx, pptx, docx, etc.*
@@ -1072,7 +1075,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [Trilinos](https://github.com/trilinos/Trilinos) - High performance PDE solvers. [BSD]
 * [Torch](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] [website](http://torch.ch/)
-* [volesti](https://github.com/GeomScale/volesti) - High dimensional sampling from truncated distributions, convex optimization and volume computation. 
+* [volesti](https://github.com/GeomScale/volesti) - High dimensional sampling from truncated distributions, convex optimization and volume computation.
 
 ## Scripting
 
@@ -1093,6 +1096,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LuaBridge3](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. [MIT]
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [Luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. [MIT] [website](https://luau.org/)
+* [MicroQuickJS](https://github.com/bellard/mquickjs) - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. [MIT]
 * [MiniScript](https://miniscript.org/) - scripting language modern, elegant, easy to learn, and easy to embed in your own C# or C++ projects. [MIT]
 * [nanobind](https://github.com/wjakob/nanobind) - tiny and efficient C++/Python bindings. [BSD-3-Clause]
 * [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
